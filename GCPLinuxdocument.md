@@ -27,8 +27,8 @@ To install PostgreSQL on Linux, you can use the package manager specific to your
     sudo systemctl enable postgresql
 
 **Information:**
-  - For installing a MySQL database in a Linux EC2 instance, refer to the steps outlined in this [guide](https://www.devart.com/dbforge/mysql/how-to-install-mysql-on-linux/).
-  - To install an MS SQL database in Windows EC2 instance, follow the instructions provided in this [guide](https://phoenixnap.com/kb/sql-server-linux).
+  - For installing a MySQL database in a Linux instance, refer to the steps outlined in this [guide](https://www.devart.com/dbforge/mysql/how-to-install-mysql-on-linux/).
+  - To install an MS SQL database in Linux instance, follow the instructions provided in this [guide](https://phoenixnap.com/kb/sql-server-linux).
 
 #### b. Setting up PostgreSQL Database in GCP
 - For instructions on creating a PostgreSQL Database in GCP, please refer to this [link](https://cloud.google.com/sql/docs/postgres/create-instance/). Additionally, you can refer to this [link](https://cloud.google.com/sql/docs/postgres/instance-info) for instance information.
