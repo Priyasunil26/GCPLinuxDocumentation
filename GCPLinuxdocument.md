@@ -30,7 +30,7 @@ To install PostgreSQL on Linux, you can use the package manager specific to your
   - For installing a MySQL database in a Linux instance, refer to the steps outlined in this [guide](https://www.devart.com/dbforge/mysql/how-to-install-mysql-on-linux/).
   - To install an MS SQL database in Linux instance, follow the instructions provided in this [guide](https://phoenixnap.com/kb/sql-server-linux).
 
-#### b. Setting up PostgreSQL Database in GCP
+#### b. Setting up Managed PostgreSQL Database in GCP
 - For instructions on creating a PostgreSQL Database in GCP, please refer to this [link](https://cloud.google.com/sql/docs/postgres/create-instance/). Additionally, you can refer to this [link](https://cloud.google.com/sql/docs/postgres/instance-info) for instance information.
 
 **Information:** 
